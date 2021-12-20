@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veritabanideneme", "veritabanideneme.csproj", "{9ED674A5-1322-4E88-8281-A3A261E20363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED674A5-1322-4E88-8281-A3A261E20363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED674A5-1322-4E88-8281-A3A261E20363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED674A5-1322-4E88-8281-A3A261E20363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED674A5-1322-4E88-8281-A3A261E20363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {141E342F-D149-4CAE-9B84-0157A9304B14}
+	EndGlobalSection
+EndGlobal
